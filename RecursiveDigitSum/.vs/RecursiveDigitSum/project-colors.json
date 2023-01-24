@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b376a824-96ea-4fc5-82d1-ad614a6628e8": {
+      "ProjectGuid": "b376a824-96ea-4fc5-82d1-ad614a6628e8",
+      "DisplayName": "RecursiveDigitSum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

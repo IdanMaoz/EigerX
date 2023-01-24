@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f36d0068-8231-4a07-9cdc-5d213f87dbbc": {
+      "ProjectGuid": "f36d0068-8231-4a07-9cdc-5d213f87dbbc",
+      "DisplayName": "PriceCheck",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

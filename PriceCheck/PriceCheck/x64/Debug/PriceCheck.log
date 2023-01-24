@@ -1,0 +1,8 @@
+﻿  PriceCheck.c
+C:\Idan\EigerX\PriceCheck\PriceCheck\PriceCheck.c(27,37): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [4][20]'
+C:\Idan\EigerX\PriceCheck\PriceCheck\PriceCheck.c(27,29): warning C4024: 'priceCheck': different types for formal and actual parameter 1
+C:\Idan\EigerX\PriceCheck\PriceCheck\PriceCheck.c(27,65): warning C4047: 'function': 'char *' differs in levels of indirection from 'char [2][20]'
+C:\Idan\EigerX\PriceCheck\PriceCheck\PriceCheck.c(27,54): warning C4024: 'priceCheck': different types for formal and actual parameter 3
+C:\Idan\EigerX\PriceCheck\PriceCheck\PriceCheck.c(23,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Idan\EigerX\PriceCheck\PriceCheck\PriceCheck.c(26,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PriceCheck.vcxproj -> C:\Idan\EigerX\PriceCheck\x64\Debug\PriceCheck.exe

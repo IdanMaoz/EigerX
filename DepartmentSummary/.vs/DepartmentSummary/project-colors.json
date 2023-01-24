@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "823f5cac-deb3-4b0c-bd70-735c4c1b6add": {
+      "ProjectGuid": "823f5cac-deb3-4b0c-bd70-735c4c1b6add",
+      "DisplayName": "DepartmentSummary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
