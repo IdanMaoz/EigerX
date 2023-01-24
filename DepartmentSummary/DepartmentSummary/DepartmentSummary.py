@@ -1,7 +1,6 @@
 import mysql.connector
 from tabulate import tabulate
 try:
-
     connection = mysql.connector.connect(
     host="localhost",
     user="root",
