@@ -17,7 +17,6 @@ int priceCheck(char* products, float* productPrices, char* productSold, float* s
 }
 int main()
 {
-
 	char products[][maxLenOfProductName] = { "rice", "sugar", "wheat", "cheese" };
 	int n = sizeof(products) / sizeof(products[0]);
 	float productPrices[] = { 16.89, 56.92, 20.89, 345.99 };
@@ -26,6 +25,5 @@ int main()
 	float soldPrice[] = { 18.99, 400.89 };
 	int incorrect = priceCheck(products, productPrices, productSold, soldPrice,n,m);
 	printf("The number of sale prices that were entered incorrectly are: %d\r\n", incorrect);
-
 }
 
