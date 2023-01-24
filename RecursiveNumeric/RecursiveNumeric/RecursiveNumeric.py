@@ -1,5 +1,5 @@
 import math
-from typing import Match
+
 def findMaxNumAndCount(maxNum, count):
      num = input("Enter number:")
      if((num[0]=='-' and num[1:].isdigit()) or num.isdigit()):
@@ -14,7 +14,7 @@ def findMaxNumAndCount(maxNum, count):
          return findMaxNumAndCount(num,count+1)
      else:
          return findMaxNumAndCount(maxNum,count)
+
 if __name__ == '__main__':
-   
     maxNum,count=findMaxNumAndCount(-math.inf,0)
     print("Sequence maximum is:",maxNum,"and we have",count,"of this number in the sequence")
